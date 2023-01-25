@@ -3,7 +3,7 @@
 
 ---
 
-🎓 Soy ingeniera industrial y de plásticos con enfoque en análisis de datos, soy estudiante de la Escuela de Data Science e Inteligencia Artificial en Platzi.
+🎓 Soy ingeniera de profesión y estudiante en la Escuela de Data Science e Inteligencia Artificial en Platzi.
  
 🌱 Actualmente estoy aprendiendo SQL y Python.
  
