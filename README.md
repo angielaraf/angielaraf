@@ -19,6 +19,8 @@
 <a href="https://angielara.com/category/excel/"><img src="https://img.shields.io/badge/excel-darkgreen.svg?style=for-the-badge&logo=microsoft%20excel&logoColor=darkgreen&labelColor=ffffff" alt="excel"></a>
 </a> 
 <a href="https://angielara.com/category/tableau/"><img src="https://img.shields.io/badge/tableau-FF6F00.svg?style=for-the-badge&logo=tableau&logoColor=FF6F00&labelColor=ffffff" alt="tableau"></a>
+<a href="https://angielara.com/category/mysql/"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+
 </p><br
         
 ---
@@ -27,13 +29,23 @@
 <table style="width:100%">
 <tr>
 <td>
+Excel:
 <a href="https://angielara.com/analisis-de-grupos-de-investigacion-en-scienti-colombia/">
 <img src="https://github.com/angielaraf/Analisis-de-grupos-de-investigacion-reconocidos-en-SCienTI-Colombia/blob/main/images/Dashboard.PNG">
 </a>
 </td>
 <td>
+Tableau:
 <a href="https://public.tableau.com/app/profile/angielara/viz/Kidsandsleep/Dashboard1">
 <img src="https://github.com/angielaraf/angielaraf/blob/main/Images/Kids_and_Sleep.png">
+</a>
+</td>
+</a>
+<tr>
+<td>
+MY SQL:
+ <a href="https://angielara.com/base-de-datos-platziblog/">
+<img src="https://github.com/angielaraf/BD_Platziblog/blob/main/Images/DiagramaEntidad-Relacion.png">
 </a>
 </td>
 </tr>
