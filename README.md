@@ -57,6 +57,6 @@ MY SQL:
 <a href="https://angielara.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.angielara.com-purple?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/angie-k-lara/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@AngieLara-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/angielara_f/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@angielara_f-blue?style=flat&logo=twitter"></a>
-<a href="mailto:contacto@angielara.com"><img alt="Email" src="https://img.shields.io/badge/Email-contacto@angielara.com-red?style=flat&logo=gmail"></a>
+<a href="mailto:angielara.f@gmsn.com"><img alt="Email" src="https://img.shields.io/badge/Email-angielara.f@msn.com-red?style=flat&logo=gmail"></a>
 </p>
 
