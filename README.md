@@ -7,7 +7,7 @@
  
 🌱 Actualmente estoy aprendiendo SQL y Python.
  
-👯 Busco colaborar en proyectos enfocados en investigación y Análisis de Datos.
+👯 Busco colaborar en proyectos enfocados en análisis de datos.
 
 ----
 
